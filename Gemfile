@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Rails related gems
-gem "recaptcha", require: "recaptcha/rails"
+gem "recaptcha", ">= 5.5.0", require: "recaptcha/rails"
 
 group :development, :staging do
   gem 'spring'
