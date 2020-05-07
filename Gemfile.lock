@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    json (2.3.0)
-    recaptcha (5.5.0)
+    json (2.1.0)
+    recaptcha (4.6.3)
       json
 
 PLATFORMS
