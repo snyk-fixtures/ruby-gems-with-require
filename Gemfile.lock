@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.3.0)
+    recaptcha (5.5.0)
+      json
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  recaptcha
+
+BUNDLED WITH
+   2.0.1
