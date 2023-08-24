@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem "recaptcha", require: "recaptcha/rails"
 
 group :development, :staging do
-  gem 'spring'
+  gem 'spring', '>= 2.1.0', '>= 2.1.0'
 end
 
 group :test do
